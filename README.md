@@ -12,3 +12,5 @@ Collection of video clips and slide shows from exceptional tech talks at LEARN a
   - [ Slide Presentation ](https://docs.google.com/presentation/d/1PVYdyi2A0v-u4MYZUA8NyYNBM1cIFuuQyZtAWDeszI4/edit?ts=5f0fe640#slide=id.p)
 - Austin Walker: Augmented Reality
   - [ Video ](https://youtu.be/ukVvVEXus7w)
+- Chrissie Akau: Moment.js
+  - [ Video ](https://youtu.be/3Ei9gPNFEIQ)
