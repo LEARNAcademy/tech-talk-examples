@@ -1,6 +1,10 @@
 # Tech Talk Examples
 Collection of video clips and slide shows from exceptional tech talks at LEARN academy.
 
+**2020 Echo**  
+- Matt Ramirez: Open Source, a Tale of Samvera
+  - [ Video ](https://youtu.be/XKtTCGE5yrA)
+
 **2020 Charlie**  
 - Cynthia Navarro: Ionic Framework in Mobile Applications
   - [ Video ](https://youtu.be/6M66abkRRts)
@@ -14,3 +18,6 @@ Collection of video clips and slide shows from exceptional tech talks at LEARN a
   - [ Video ](https://youtu.be/ukVvVEXus7w)
 - Chrissie Akau: Moment.js
   - [ Video ](https://youtu.be/3Ei9gPNFEIQ)
+
+
+
