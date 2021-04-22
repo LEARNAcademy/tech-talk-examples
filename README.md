@@ -1,5 +1,5 @@
 # Tech Talk Examples
-Collection of video clips and slide shows from exceptional tech talks at LEARN academy.
+Collection of video clips and slide shows from exceptional tech talks at LEARN Academy.
 
 **2020 Echo**  
 - Matt Ramirez: Open Source, a Tale of Samvera
