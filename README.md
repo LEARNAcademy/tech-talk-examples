@@ -1,6 +1,12 @@
 # Tech Talk Examples
 Collection of video clips and slide shows from exceptional tech talks at LEARN Academy.
 
+**2022 Bravo**  
+- Tameka Stevenson: Mindful Programming
+  - [ Video ](https://youtu.be/6G31bwps83s)
+- Neco Armstrong: Bionic Reading
+  - [ Video ](https://youtu.be/wUTRvU4VESw)
+
 **2020 Echo**  
 - Matt Ramirez: Open Source, a Tale of Samvera
   - [ Video ](https://youtu.be/XKtTCGE5yrA)
