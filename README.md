@@ -1,6 +1,14 @@
 # Tech Talk Examples
 Collection of video clips and slide shows from exceptional tech talks at LEARN Academy.
 
+**2022 Delta**  
+- Gene Martinez: Imposter Syndrome
+  - [ Video ](https://youtu.be/xazlSXzbA38)
+- Pua Amano: Coding Through The Chaos
+  - [ Video ](https://youtu.be/ydG-7QxRYtA)
+- Will Williams: Polymorphic Associations
+  - [ Video ](https://youtu.be/tXZj8F23vBQ)
+
 **2022 Bravo**  
 - Tameka Stevenson: Mindful Programming
   - [ Video ](https://youtu.be/6G31bwps83s)
