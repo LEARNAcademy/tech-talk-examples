@@ -4,7 +4,6 @@ Collection of video clips and slide decks from exceptional tech talks at LEARN A
 
 **2022 Delta**
 
-- [Gene Martinez](https://youtu.be/xazlSXzbA38): Imposter Syndrome
 - [Will Williams](https://youtu.be/tXZj8F23vBQ): Polymorphic Associations
 
 **2022 Bravo**
