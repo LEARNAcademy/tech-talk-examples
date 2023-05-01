@@ -1,37 +1,27 @@
 # Tech Talk Examples
-Collection of video clips and slide shows from exceptional tech talks at LEARN Academy.
 
-**2022 Delta**  
-- Gene Martinez: Imposter Syndrome
-  - [ Video ](https://youtu.be/xazlSXzbA38)
-- Pua Amano: Coding Through The Chaos
-  - [ Video ](https://youtu.be/ydG-7QxRYtA)
-- Will Williams: Polymorphic Associations
-  - [ Video ](https://youtu.be/tXZj8F23vBQ)
+Collection of video clips and slide decks from exceptional tech talks at LEARN Academy.
 
-**2022 Bravo**  
-- Tameka Stevenson: Mindful Programming
-  - [ Video ](https://youtu.be/6G31bwps83s)
-- Neco Armstrong: Bionic Reading
-  - [ Video ](https://youtu.be/wUTRvU4VESw)
+**2022 Delta**
 
-**2020 Echo**  
-- Matt Ramirez: Open Source, a Tale of Samvera
-  - [ Video ](https://youtu.be/XKtTCGE5yrA)
+- [Gene Martinez](https://youtu.be/xazlSXzbA38): Imposter Syndrome
+- [Will Williams](https://youtu.be/tXZj8F23vBQ): Polymorphic Associations
 
-**2020 Charlie**  
-- Cynthia Navarro: Ionic Framework in Mobile Applications
-  - [ Video ](https://youtu.be/6M66abkRRts)
-- Trip Moore: Super Quick Crash Course on Python
-  - [ Video ](https://youtu.be/qc-ujrJo1Rk)
+**2022 Bravo**
 
-**2020 Bravo**  
-- April Rieger: Styling Ruby Devise Log In Forms for a React in Rails Application
-  - [ Slide Presentation ](https://docs.google.com/presentation/d/1PVYdyi2A0v-u4MYZUA8NyYNBM1cIFuuQyZtAWDeszI4/edit?ts=5f0fe640#slide=id.p)
-- Austin Walker: Augmented Reality
-  - [ Video ](https://youtu.be/ukVvVEXus7w)
-- Chrissie Akau: Moment.js
-  - [ Video ](https://youtu.be/3Ei9gPNFEIQ)
+- [Neco Armstrong](https://youtu.be/wUTRvU4VESw): Bionic Reading
 
+**2020 Echo**
 
+- [Matt Ramirez](https://youtu.be/XKtTCGE5yrA): Open Source, a Tale of Samvera
 
+**2020 Charlie**
+
+- [Cynthia Navarro](https://youtu.be/6M66abkRRts): Ionic Framework in Mobile Applications
+- [Trip Moore](https://youtu.be/qc-ujrJo1Rk): Super Quick Crash Course on Python
+
+**2020 Bravo**
+
+- [April Rieger](https://docs.google.com/presentation/d/1PVYdyi2A0v-u4MYZUA8NyYNBM1cIFuuQyZtAWDeszI4/edit?ts=5f0fe640#slide=id.p): Styling Ruby Devise Log In Forms for a React in Rails Application
+- [Austin Walker](https://youtu.be/ukVvVEXus7w): Augmented Reality
+- [Chrissie Akau](https://youtu.be/3Ei9gPNFEIQ): Moment.js
