@@ -2,6 +2,13 @@
 
 Collection of video clips and slide decks from exceptional tech talks at LEARN Academy.
 
+**2023 Alpha**
+
+- [Aaron Criner](https://youtu.be/u-A4RjxP-gs): Know Your Product, Know Your Code
+- [CJ Norris](https://youtu.be/mVs13ayFfkY): React Hooks
+- [Jacob Ross](https://youtu.be/vMavbDgmUoE): Amazon Web Services
+- [Josh Maurer](https://youtu.be/88f5qmT1-Uc): Hotwire
+
 **2022 Delta**
 
 - [Will Williams](https://youtu.be/tXZj8F23vBQ): Polymorphic Associations
